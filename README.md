@@ -7,11 +7,14 @@ The purpose of this project is to create one function that takes in the three fi
 
 
 ## Resources and Software
- Data  - [Wikipedia Movie Data ](https://github.com/NadaAdem/-Movies-ETL/blob/main/Resources/wikipedia-movies.json)
-       - [Kaggle Movie Data:](https://www.kaggle.com/rounakbanik/the-movies-dataset) ( downloaded from Kaggle, only "movies_metadata.csv" and "ratings.csv" in zip file  are used in this project.)
-Python 3.7
-pgAdmin 4.50
-PostgreSQL v13
+- Python 3.7
+- pgAdmin 4.50
+- PostgreSQL v13
+
+- Data 
+ - [Wikipedia Movie Data ](https://github.com/NadaAdem/-Movies-ETL/blob/main/Resources/wikipedia-movies.json)
+ - [Kaggle Movie Data:](https://www.kaggle.com/rounakbanik/the-movies-dataset) ( downloaded from Kaggle, only "movies_metadata.csv" and "ratings.csv" in zip file  are used in this project.)
+
 
 
 

@@ -22,6 +22,6 @@ The purpose of this project is to create one function that takes in the three fi
 ## Results
 After clean data and convert the transformed data into separate DataFrames ,then merge them togther . Finally,  add dataframe to  PostgreSQL and CSV data to a SQL database.   for check rows in table , run a query on the PostgreSQL database that retreives the number of rows for the movies and ratings tables.
 
-[image !](https://github.com/NadaAdem/-Movies-ETL/blob/main/Resources/movies_query.png)
+![image](https://github.com/NadaAdem/-Movies-ETL/blob/main/Resources/movies_query.png)
 
 

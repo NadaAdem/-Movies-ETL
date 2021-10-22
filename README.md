@@ -22,11 +22,11 @@ The purpose of this project is to create one function that takes in the three fi
 ## Results
 After clean data and convert the transformed data into separate DataFrames ,then merge them . Finally,the dataframe add  to PostgreSQL and CSV data to a SQL database.        for check rows in each table , run a query as  show in below  on the PostgreSQL database that retreives the number of rows for the movies and ratings .
 
-# Number of rows for the movies table 
+### Number of rows for the movies table 
 
 ![image](https://github.com/NadaAdem/-Movies-ETL/blob/main/Resources/movies_query.png)
 
 
-# Number of rows for  ratings table 
+### Number of rows for  ratings table 
 
 ![image](https://github.com/NadaAdem/-Movies-ETL/blob/main/Resources/ratings_query.png)

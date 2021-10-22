@@ -29,3 +29,7 @@ After clean data and convert the transformed data into separate DataFrames ,then
 
 ### Number of rows for  ratings table 
 
+![image](https://github.com/NadaAdem/-Movies-ETL/blob/main/Resources/ratings_query2.png)
+
+![image](https://github.com/NadaAdem/-Movies-ETL/blob/main/Resources/ratings_query.png)
+

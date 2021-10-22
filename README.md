@@ -1,4 +1,4 @@
-# Movies Data - ETL
+# Movies Data - Extract, Transform, Load (ETL)
 
 ## Project Overview
 
